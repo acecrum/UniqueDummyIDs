@@ -1,0 +1,22 @@
+bin/
+obj/
+References/
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.csproj.user
+
+*.log
+*.tmp
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
