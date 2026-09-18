@@ -1,7 +1,7 @@
 # Unique Dummy IDs
 
 ## This plugin requires [Harmony](https://github.com/pardeike/Harmony/releases/)
-Download the Harmony-Fat.zip and extract `0Harmony.cll` in the `net48` folder to your plugins folder.
+Download the Harmony-Fat.zip and extract `0Harmony.dll` in the `net48` folder to your plugins folder.
 
 ## This plugin adds unique IDs for Dummies in SCP: Secret Laboratory.
 Dummies UserIDs use their connectionIDs for their UserIDs and end with `@Dummy`</br>
